@@ -6,7 +6,7 @@ Welcome to the official GitHub organization of **CoreNovum AI**, a cutting-edge 
 
 ---
 
-## 🛠️ Our Core Expertise
+##  Our Core Expertise
 
 * **Intelligent Agents:** Custom-engineered AI personas optimized for automated workflows and dynamic decision-making.
 * **Process Automation:** Advanced cognitive pipelines structured to eliminate operational friction and manual tasks.
@@ -14,7 +14,7 @@ Welcome to the official GitHub organization of **CoreNovum AI**, a cutting-edge 
 
 ---
 
-## 🚀 Vision
+##  Vision
 
 To empower global enterprises—particularly within emerging tech hubs like the UAE—with highly intuitive, secure, and sovereign artificial intelligence frameworks that redefine operational efficiency.
 
@@ -24,7 +24,7 @@ To empower global enterprises—particularly within emerging tech hubs like the 
 
 We build in public and collaborate globally. Connect with our engineering and business operations teams:
 
-* **Inquiries:** `corenovum.tech@gmail.com` *(or your Proton mail address)*
+* **Inquiries:** `corenovum.ai@proton.me` 
 * **Location:** United Arab Emirates (UAE)
 
 ---
